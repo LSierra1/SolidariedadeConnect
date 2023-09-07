@@ -1,7 +1,10 @@
+<p align="center">
+
 # SolidariedadeConnect
 ### Aplicativo Mobile de Cadastro de Pessoas Carentes para Programa Social
 
-<img src="assets/logo-transp.png" alt="SolidariedadeConnect Logo" width="256" height="253">
+<img src="assets/logo-transp.png" alt="SolidariedadeConnect Logo" width="200" height="197">
+</p>
 
 
 **Contratante**: Governo Federal
