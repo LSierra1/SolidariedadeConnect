@@ -79,4 +79,4 @@ O prazo de entrega estimado para o desenvolvimento completo do aplicativo é de 
 
 Este README fornece uma visão geral do aplicativo *SolidariedadeConnect*, destacando seus objetivos, requisitos funcionais e não funcionais. Detalhes específicos de design, recursos adicionais e aspectos técnicos serão discutidos em reuniões subsequentes para garantir uma compreensão completa das necessidades e expectativas do projeto.
 
-Para mais informações, entre em contato conosco em [inserir email de contato aqui]. Agradecemos o seu interesse no *SolidariedadeConnect* e esperamos colaborar para criar um impacto positivo na sociedade.
+Para mais informações, entre em contato conosco em <a href="mailto:contatorafaballerini@gmail.com">*sierra.for85@gmail.com*</a>. Agradecemos o seu interesse no *SolidariedadeConnect* e esperamos colaborar para criar um impacto positivo na sociedade.
