@@ -1,7 +1,9 @@
 # SolidariedadeConnect
 ### Aplicativo Mobile de Cadastro de Pessoas Carentes para Programa Social
 
+<p size=25%>
 ![SolidariedadeConnect Logo](assets/logo-transp.png)
+</p>
 
 **Contratante**: Governo Federal
 **Dono**: Sierra
